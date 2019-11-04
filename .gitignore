@@ -1,0 +1,17 @@
+.DS_Store
+.history
+node_modules
+dist
+
+# Lock files
+#package-lock.json
+#yarn.lock
+
+# Editor directories and files
+.tmp
+.settings
+.project
+*.log
+*.dat
+
+zip
